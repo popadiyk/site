@@ -4,4 +4,5 @@ git status
 git add --a добавление всех измененных файлов
 git commit -m "name" - создание комита
 git branch - просмотр всех веток
+git branch name - объявлние новой ветки 
 git checkout new_style - выбор ветки
