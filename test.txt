@@ -1,3 +1,4 @@
 GIT PULL
 GIT ADD 
+git clone
 Wow
