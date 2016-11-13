@@ -6,3 +6,7 @@ git commit -m "name" - создание комита
 git branch - просмотр всех веток
 git branch name - объявлние новой ветки 
 git checkout new_style - выбор ветки
+
+$ git log --graph |наз.ветки(может быть --all)| --decorate --online
+git log --oneline -- decorate 
+$ git merge style2 слияние ветки с мастер
