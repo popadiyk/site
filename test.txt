@@ -1,4 +1,5 @@
-GIT PULL
-GIT ADD 
+git push -u origin master
 git clone https://github.com/Qriti/site.git
-Wow
+git status
+git add .
+git commit -m "name"
