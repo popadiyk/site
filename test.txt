@@ -1,5 +1,7 @@
 git push -u origin master
 git clone https://github.com/Qriti/site.git
 git status
-git add .
-git commit -m "name"
+git add --a добавление всех измененных файлов
+git commit -m "name" - создание комита
+git branch - просмотр всех веток
+git checkout new_style - выбор ветки
