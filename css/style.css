@@ -5,6 +5,7 @@ body{
 }
 p{
     font-size: 20px;
+    background-color: brown;
 }
 h1{
     font-size: 40px;
@@ -13,5 +14,5 @@ span{
     background-color: aquamarine;
 }
 body div{
-    font-size: 35px;
+    font-size: 33px;
 }
