@@ -1,9 +1,17 @@
 body{
     background-color: red;
+    margin: 20px auto;
+    width: 960px;
 }
 p{
     font-size: 30px;
 }
 h1{
     font-size: 40px;
+}
+span{
+    background-color: aquamarine;
+}
+body div{
+    font-size: 35px;
 }
