@@ -1,4 +1,4 @@
 GIT PULL
 GIT ADD 
-git clone
+git clone https://github.com/Qriti/site.git
 Wow
