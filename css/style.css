@@ -10,6 +10,9 @@ p{
 h1{
     font-size: 40px;
 }
+
+h1:hover{color:red; font-weight: bold}
+
 span{
     background-color: aquamarine;
 }
